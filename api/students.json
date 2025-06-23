@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Federico Valdés",
+    "career": "Ciencia de Datos e Inteligencia Artificial"
+  },
+  {
+    "id": 2,
+    "name": "Carlo Olivera",
+    "career": "Ciencia de Datos e Inteligencia Artificial"
+  },
+  {
+    "id": 3,
+    "name": "Alexis Galvan",
+    "career": "Ciencia de Datos e Inteligencia Artificial"
+  },
+  {
+    "id": 4,
+    "name": "Marcelo Perez Cazal",
+    "career": "Ciencia de Datos e Inteligencia Artificial"
+  }
+]
